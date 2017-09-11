@@ -1,2 +1,2 @@
 from helper import greeting
-greeting("wassup")
+greeting("wassup fam")
