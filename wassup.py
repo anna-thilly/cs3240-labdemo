@@ -1,2 +1,2 @@
 from helper import greeting
-greeting("hello friend")
+greeting("wassup")
